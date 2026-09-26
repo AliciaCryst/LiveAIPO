@@ -1,4 +1,4 @@
-# AIPO holdings as of 2026-09-28 starter snapshot; weight_pct is percentage points
+# AIPO holdings as of 2026-09-28; weight_pct is percentage points
 symbol	company	weight_pct
 ETN	Eaton Corp PLC	8.520000
 PWR	Quanta Services Inc	8.320000
