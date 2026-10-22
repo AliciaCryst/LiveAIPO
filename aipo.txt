@@ -1,87 +1,87 @@
-# AIPO holdings as of 2026-10-21; weight_pct is percentage points
+# AIPO holdings as of 2026-10-22; weight_pct is percentage points
 symbol	company	weight_pct
-PWR	Quanta Services Inc	8.690000
-GEV	GE Vernova Inc	8.560000
-ETN	Eaton Corp PLC	8.410000
-VRT	Vertiv Holdings Co	6.030000
-BE	Bloom Energy Corp	4.810000
-GOOGL	Alphabet Inc	4.700000
-NVDA	NVIDIA Corp	4.420000
-AVGO	Broadcom Inc	4.190000
-CCJ	Cameco Corp	3.500000
-CEG	Constellation Energy Corp	3.450000
-AMD	Advanced Micro Devices Inc	2.720000
-HUBB	Hubbell Inc	2.120000
-NVT	nVent Electric PLC	1.980000
-VST	Vistra Corp	1.950000
-XEL	Xcel Energy Inc	1.800000
-D	Dominion Energy Inc	1.790000
+GEV	GE Vernova Inc	8.760000
+PWR	Quanta Services Inc	8.630000
+ETN	Eaton Corp PLC	8.540000
+VRT	Vertiv Holdings Co	6.180000
+BE	Bloom Energy Corp	5.080000
+GOOGL	Alphabet Inc	4.560000
+NVDA	NVIDIA Corp	4.470000
+AVGO	Broadcom Inc	4.170000
+CEG	Constellation Energy Corp	3.560000
+CCJ	Cameco Corp	3.520000
+AMD	Advanced Micro Devices Inc	2.780000
+HUBB	Hubbell Inc	2.080000
+NVT	nVent Electric PLC	2.040000
+VST	Vistra Corp	2.000000
+XEL	Xcel Energy Inc	1.790000
+D	Dominion Energy Inc	1.760000
 PEG	Public Service Enterprise Group Inc	1.290000
-GNRC	Generac Holdings Inc	1.230000
-BWXT	BWX Technologies Inc	1.180000
+GNRC	Generac Holdings Inc	1.260000
+BWXT	BWX Technologies Inc	1.160000
 STRL	Sterling Infrastructure Inc	1.100000
-MTZ	MasTec Inc	1.080000
-PCG	PG&E Corp	1.030000
+MTZ	MasTec Inc	1.020000
+PCG	PG&E Corp	1.010000
 MRVL	MARVELL TECHNOLOGY INC	0.890000
-FPS	Forgent Power Solutions Inc	0.820000
-VMI	Valmont Industries Inc	0.800000
-ENS	EnerSys	0.760000
-NXE	NexGen Energy Ltd	0.740000
-EVRG	Evergy Inc	0.680000
-DY	Dycom Industries Inc	0.580000
-EQIX	Equinix Inc	0.560000
-ITRI	Itron Inc	0.560000
+FPS	Forgent Power Solutions Inc	0.840000
+VMI	Valmont Industries Inc	0.790000
+ENS	EnerSys	0.770000
+NXE	NexGen Energy Ltd	0.730000
+EVRG	Evergy Inc	0.670000
 TLN	Talen Energy Corp	0.560000
+EQIX	Equinix Inc	0.550000
+ITRI	Itron Inc	0.550000
 OKLO	Oklo Inc	0.540000
+DY	Dycom Industries Inc	0.530000
+PSIX	Power Solutions International Inc	0.470000
+SHLS	Shoals Technologies Group Inc	0.470000
 ALAB	Astera Labs Inc	0.460000
-DLR	Digital Realty Trust Inc	0.450000
-PSIX	Power Solutions International Inc	0.450000
-SHLS	Shoals Technologies Group Inc	0.450000
-UEC	Uranium Energy Corp	0.440000
-AMSC	American Superconductor Corp	0.410000
+DLR	Digital Realty Trust Inc	0.440000
+UEC	Uranium Energy Corp	0.430000
+AMSC	American Superconductor Corp	0.420000
+INIO	Innio NV	0.420000
 ARM	ARM Holdings PLC	0.410000
-INIO	Innio NV	0.410000
 XE	X-Energy Inc	0.410000
 DNN	Denison Mines Corp	0.390000
-MYRG	MYR Group Inc	0.390000
-NBIS	Nebius Group NV	0.390000
 AES	AES Corp/The	0.380000
-SMR	NuScale Power Corp	0.380000
-LSCC	Lattice Semiconductor Corp	0.370000
-FCEL	FuelCell Energy Inc	0.350000
+MYRG	MYR Group Inc	0.380000
+NBIS	Nebius Group NV	0.380000
+FCEL	FuelCell Energy Inc	0.370000
+SMR	NuScale Power Corp	0.370000
+LSCC	Lattice Semiconductor Corp	0.360000
 PLPC	Preformed Line Products Co	0.350000
 CSQR	Csquare Inc	0.340000
-LEU	Centrus Energy Corp	0.340000
 PNW	Pinnacle West Capital Corp	0.340000
-UUUU	Energy Fuels Inc/Canada	0.340000
-AGX	Argan Inc	0.300000
+LEU	Centrus Energy Corp	0.330000
+UUUU	Energy Fuels Inc/Canada	0.330000
 NNE	NANO Nuclear Energy Inc	0.300000
-CRWV	CoreWeave Inc	0.290000
+AGX	Argan Inc	0.290000
+APLD	Applied Digital Corp	0.290000
 CORZ	Core Scientific Inc	0.280000
-GDS	GDS Holdings Ltd	0.280000
+CRWV	CoreWeave Inc	0.280000
 HUT	HUT 8 CORP	0.280000
-APLD	Applied Digital Corp	0.270000
-NRGV	Energy Vault Holdings Inc	0.270000
-WULF	Terawulf Inc	0.260000
-CBRS	Cerebras Systems Inc	0.250000
+GDS	GDS Holdings Ltd	0.270000
+WULF	Terawulf Inc	0.270000
+NRGV	Energy Vault Holdings Inc	0.260000
 FLNC	Fluence Energy Inc	0.250000
+IREN	IREN Ltd	0.250000
+URG	Ur-Energy Inc	0.250000
+BTDR	Bitdeer Technologies Group	0.240000
+CBRS	Cerebras Systems Inc	0.240000
+CLSK	Cleanspark Inc	0.240000
 DGXX	Digi Power X Inc	0.240000
 EU	Encore Energy Corp	0.240000
-IREN	IREN Ltd	0.240000
 MARA	MARA Holdings Inc	0.240000
-RIOT	Riot Platforms Inc	0.240000
-BTDR	Bitdeer Technologies Group	0.230000
-CLSK	Cleanspark Inc	0.230000
 HIVE	Hive Digital Technologies Ltd	0.230000
 KEEL	Keel Infrastructure Corp	0.230000
-URG	Ur-Energy Inc	0.230000
+RIOT	Riot Platforms Inc	0.230000
 VNET	Vnet Group Inc	0.230000
-NPWR	Net Power Inc	0.220000
+BTBT	Bit Digital Inc	0.210000
+NPWR	Net Power Inc	0.210000
 TXNM	TXNM Energy Inc	0.210000
 WYFI	Whitefiber Inc	0.210000
-BTBT	Bit Digital Inc	0.200000
 CIFR	Cipher Digital Inc	0.200000
 EOSE	Eos Energy Enterprises Inc	0.190000
-BRUN	Boost Run Inc	0.180000
 POR	Portland General Electric Co	0.180000
+BRUN	Boost Run Inc	0.170000
 MWH	Solv Energy Inc	0.140000
